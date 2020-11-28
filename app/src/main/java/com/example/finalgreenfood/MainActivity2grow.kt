@@ -11,6 +11,9 @@ class MainActivity2grow : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main_activity2grow)
 
+        /**
+         * @btnback sends the user back to the homepage- MainActivity
+         */
         btnback.setOnClickListener {
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)

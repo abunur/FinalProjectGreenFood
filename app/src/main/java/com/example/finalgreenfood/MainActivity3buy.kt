@@ -11,6 +11,9 @@ class MainActivity3buy : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main_activity3buy)
 
+        /**
+         * @btnback2 sends the user to MainActivity
+         */
         btnback2.setOnClickListener {
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
