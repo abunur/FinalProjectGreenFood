@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalGreenFood</string>
+    <string name="welcome">Welcome to Green Food!</string>
+    <string name="growing">Start Growing</string>
+    <string name="buy">Buy Sustainably</string>
+    <string name="grow">Learn How to Grow Your Own Veggies!</string>
+    <string name="back">Back</string>
+    <string name="buySustainably">Buy Sustainably!</string>
+    <string name="back2">Back</string>
+</resources>
