@@ -20,6 +20,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.122" />
 
+    <!--@btnback2 goes to the home page- MainAcitivity -->
     <Button
         android:id="@+id/btnback2"
         android:layout_width="wrap_content"
@@ -42,4 +43,18 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3"
         app:layout_constraintVertical_bias="0.042" />
+
+    <!--@icecreampic is one of the required 3 pictures.  Content is described -->
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="325dp"
+        android:layout_height="428dp"
+        android:contentDescription="@string/iceCream"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.476"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.887"
+        app:srcCompat="@drawable/icecreampic" />
 </androidx.constraintlayout.widget.ConstraintLayout>
