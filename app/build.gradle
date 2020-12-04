@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.finalgreenfood"
+        applicationId "com.amye.finalgreenfood"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1

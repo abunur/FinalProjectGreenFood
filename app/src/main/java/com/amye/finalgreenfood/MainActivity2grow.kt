@@ -1,4 +1,4 @@
-package com.example.finalgreenfood
+package com.amye.finalgreenfood
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

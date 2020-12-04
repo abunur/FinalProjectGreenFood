@@ -1,15 +1,15 @@
-package com.example.finalgreenfood
+package com.amye.finalgreenfood
 
 import org.junit.Test
 
 import org.junit.Assert.*
 
 /**
- * Example local unit test, which will execute on the development machine (host).
+ * amye local unit test, which will execute on the development machine (host).
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class ExampleUnitTest {
+class amyeUnitTest {
     @Test
     fun addition_isCorrect() {
         assertEquals(4, 2 + 2)
