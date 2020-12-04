@@ -7,6 +7,7 @@
     android:background="#4FD855"
     tools:context=".MainActivity3buy">
 
+    <!--Changed the layout to be a constraint layout-->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/linearLayout3"
         android:layout_width="match_parent"
